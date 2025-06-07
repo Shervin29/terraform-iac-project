@@ -59,3 +59,11 @@ terraform destroy
 
 📦 Version Control
 This project uses GitHub for version control. Make sure to exclude .terraform/, *.tfstate, and credentials using .gitignore.
+
+
+🧠 Future Improvements
+Add RDS database provisioning.
+
+Include security groups and subnets.
+
+Implement Terraform modules for better reusability.
